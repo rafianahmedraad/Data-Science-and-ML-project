@@ -6,4 +6,4 @@ During model building we will cover almost all data science concepts such as dat
 2) Numpy and Pandas for data cleaning 
 3) Matplotlib for data visualization 
 4) Sklearn for model building 
-5) Jupyter notebook, 
+5) Jupyter notebook
